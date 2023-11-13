@@ -11,7 +11,8 @@ brew install pdftk-java
 
 搜索 PDF 文件，并使用 Universal Actions 建立书签索引，索引默认位置在 Workflow 的工作目录 `./bookmark/` 中，建议修改储存路径，如果储存在工作目录，那么下次更新 Workflow 时会被删除。
 
-<img width="896" alt="image" src="https://github.com/HF706/My_Alfred_workflow/assets/34521475/093a86c6-6bcb-4f63-8228-f329d2b3e2a2">
+<img width="1200" alt="image" src="https://github.com/HF706/My_Alfred_workflow/assets/34521475/a33b27a2-6843-4f3b-aeb6-262d5642e2d2">
+
 
 ### 索引
 <img width="764" alt="image" src="https://github.com/HF706/My_Alfred_workflow/assets/34521475/b98ffe34-1e20-4828-af55-e812c62c7be1">
