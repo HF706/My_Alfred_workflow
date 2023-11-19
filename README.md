@@ -39,5 +39,9 @@ brew install pdftk-java
 
 ![2784e376f009ce22355e360118c438b23841c3d9](https://github.com/HF706/My_Alfred_workflow/assets/34521475/160a769e-6a6a-48fd-ab49-6ffd09d90507)
 
+# TODO
 
-
+- [ ] 使用 tag 给索引文件加上标签，运行用户使用 tag # 进一步缩小文件搜索范围，实现在符合 tag 的文件中搜索书签
+- [ ] 支持“真” 中文分词
+- [ ] 整合我的另一个 Workflow - PDF Toolbox ，使得添加书签和修改书签变得更容易
+- [ ] 更加详细的教程
