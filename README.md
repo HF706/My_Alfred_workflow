@@ -1,5 +1,7 @@
 ## Usage 用法
 
+Search bookmarks in multiple PDF files
+
 ### Install 安装
 
 Select a folder to store the index files.
