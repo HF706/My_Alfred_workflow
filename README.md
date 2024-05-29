@@ -1,6 +1,13 @@
 ## Usage 用法
 
-Search bookmarks in multiple PDF files
+Search bookmarks in multiple PDF files.
+
+![def](https://github.com/HF706/My_Alfred_workflow/assets/34521475/19a1f243-8fc1-484c-b6f9-24f1668c1288)
+
+Search bookmarks in in a specific PDF file.
+
+![indexin](https://github.com/HF706/My_Alfred_workflow/assets/34521475/2ff37565-c4f3-49f0-9b62-0d3160ec4c44)
+
 
 ### Install 安装
 
