@@ -11,6 +11,9 @@ Install pdftk via [Homebrew](https://brew.sh)
 ```
 brew install pdftk-java
 ```
+* PDF Reader, enter the application name in the input box, and you can use PDF readers such as "Preview," "Skim," and "PDF Expert" to open PDF documents. It is recommended to use "Skim" because it supports URL schemes, allowing for quick page navigation.
+
+<img width="499" alt="image" src="https://github.com/HF706/My_Alfred_workflow/assets/34521475/7a6c4edb-a839-4d93-9ed0-b05d9968befc">
 
 ## Usage
 
